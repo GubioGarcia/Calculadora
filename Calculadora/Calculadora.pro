@@ -10,11 +10,13 @@ CONFIG += c++17
 
 SOURCES += \
     calculadora.cpp \
+    calculadoracontrole.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
     calculadora.h \
+    calculadoracontrole.h \
     mainwindow.h
 
 FORMS += \
